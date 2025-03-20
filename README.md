@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simrandeep Singh</h1>
-<h3 align="center">I am a passionate web developer and data analyst with a deep love for creating dynamic, user-friendly websites and uncovering insights from complex data sets. My expertise lies in seamlessly integrating web technologies and analytical tools to deliver innovative solutions, enhancing user experience and driving data-driven decision-making.</h3>
+<h3 align="center">Machine Learning Engineer | Data Scientist | Architecting Intelligent Systems for Data-Driven Innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simrandeep111&label=Profile%20views&color=0e75b6&style=flat" alt="simrandeep111" /> </p>
 
