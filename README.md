@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simrandeep111" alt="simrandeep111" /></a> </p>
 
-- 🌱 I’m currently learning **I’m currently learning Data Science in Artificial Intellgience with Deep Learning NLP**
 
 - 📫 How to reach me **simrandeepsingh1000@gmail.com**
 
