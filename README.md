@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simrandeep Singh</h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist | Architecting Intelligent Systems for Data-Driven Innovation</h3>
+<h3 align="center">Machine Learning Engineer | Data Engineer | Architecting Intelligent Systems for Data-Driven Innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simrandeep111&label=Profile%20views&color=0e75b6&style=flat" alt="simrandeep111" /> </p>
 
